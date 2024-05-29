@@ -74,7 +74,7 @@
   &none         &kp TAB         &kp Q         &kp W         &kp E         &kp R                &kp T                                                         &none   &none   &none   &none   &none   &none   &none
   &none         &kp TAB         &kp A         &kp S         &kp D         &kp F                &kp G  &kp LEFT_WIN   &none                   &none   &none   &none   &none   &none   &none   &none   &none   &none
   &none  &kp LEFT_SHIFT         &kp Z         &kp X         &kp C         &kp V                                      &none                   &none                   &none   &none   &none   &none   &none   &none
-  &none    &kp LEFT_ALT         &none         &none         &none                          &kp SPACE     &kp LCTRL   &none                   &none   &none   &none           &none   &none   &none   &none   &none
+  &none    &kp LEFT_ALT         &none         &kp N         &kp M                          &kp SPACE     &kp LCTRL   &none                   &none   &none   &none           &none   &none   &none   &none   &none
             >;
         };
 
