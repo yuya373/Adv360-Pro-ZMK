@@ -28,11 +28,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-              "&kp ESC", "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3", "&kp NUMBER_4", "&kp NUMBER_5",              "&tog 3",                                                                    "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
-            "&kp GRAVE",        "&kp Q",        "&kp W",        "&kp E",        "&kp R",        "&kp T",               "&kp Y",                                                                    "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
-              "&kp TAB",        "&kp A",        "&kp S",        "&kp D",        "&kp F",        "&kp G",               "&kp H", "&kp LEFT_WIN",  "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
-       "&kp LEFT_SHIFT",        "&kp Z",        "&kp X",        "&kp C",        "&kp V",        "&kp B",                                         "&none",                      "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
-         "&kp LEFT_ALT",        "&none",        "&none",        "&none",        "&none",                           "&kp SPACE",    "&kp LCTRL",  "&none",                      "&none",  "&none",  "&none",            "&none",  "&none",  "&none",  "&none",  "&none"
+              "&kp ESC",   "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3", "&kp NUMBER_4", "&kp NUMBER_5",              "&tog 3",                                                                    "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+            "&kp GRAVE",      "&kp GRAVE",        "&kp Q",        "&kp W",        "&kp E",        "&kp R",               "&kp T",                                                                    "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+              "&kp TAB",        "&kp TAB",        "&kp A",        "&kp S",        "&kp D",        "&kp F",               "&kp G", "&kp LEFT_WIN",  "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+       "&kp LEFT_SHIFT", "&kp LEFT_SHIFT",        "&kp Z",        "&kp X",        "&kp C",        "&kp V",                                         "&none",                      "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+         "&kp LEFT_ALT",   "&kp LEFT_ALT",        "&none",        "&none",        "&none",                           "&kp SPACE",    "&kp LCTRL",  "&none",                      "&none",  "&none",  "&none",            "&none",  "&none",  "&none",  "&none",  "&none"
     ]
   ]
 }
